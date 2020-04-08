@@ -1,0 +1,14 @@
+com\roverspace\direction\East.class
+com\roverspace\rover\InputTxt.class
+com\roverspace\command\RightCommand.class
+com\roverspace\direction\South.class
+com\roverspace\direction\North.class
+com\roverspace\command\Command.class
+com\roverspace\rover\Rover.class
+com\roverspace\command\CommandInstruction.class
+com\roverspace\command\MoveCommand.class
+com\roverspace\rover\Grid.class
+com\roverspace\direction\Direction.class
+com\roverspace\command\LeftCommand.class
+com\roverspace\direction\West.class
+com\roverspace\direction\DirectionIstruction.class
